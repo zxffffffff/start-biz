@@ -2,7 +2,7 @@
 一个快速展业的微服务脚手架，支持各类云服务 SaaS PaaS FaaS
 
 ## 架构图
-![image](https://github.com/zxffffffff/start-biz/blob/master/doc/Architecture.drawio.png)
+![image](https://github.com/zxffffffff/start-biz/blob/master/doc/Architecture.png)
 
 
 # 开发(Development)
