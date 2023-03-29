@@ -10,6 +10,14 @@
 
 ## 部署
 - https://casdoor.org/zh/docs/basic/try-with-docker
-- docker 部署，连接 MySQL
-- [todo]
+- docker 部署测试，自带 MySQL（casdoor-all-in-one）
+```docker
+# http://localhost:8000 admin 123
+docker run -p 8000:8000 casbin/casdoor-all-in-one
+```
+- docker 部署生产，连接 MySQL（casdoor）
+```docker
+# 创建 conf/app.conf文件
+docker run -e driverName=mysql -e dataSourceName='user:password@tcp(x.x.x.x:3306)/' -p 8000:8000 casbin/casdoor:latest
+```
 

@@ -35,8 +35,8 @@
 - [WIP] Kubernetes(K8s)
 
 ## 数据库(DB)
-- [todo] MySQL
-- [todo] PostgreSQL
+- [WIP] MySQL
+- [WIP] PostgreSQL
 - [todo] MongoDB
 - [todo] Redis
 - [todo] 对象存储
@@ -45,7 +45,7 @@
 ## 中间件(middleware)
 - [todo] Dubbo: 远程调用，支持 gRPC
 - [todo] Nacos: 注册中心、配置中心
-- [todo] Keycloak/Casdoor: 用户身份管理、权限控制
+- [WIP] Keycloak/Casdoor: 用户身份管理、权限控制
 
 
 
