@@ -9,6 +9,10 @@
 - 方便扩展支持各个云原生厂商(阿里云、华为云、AWS、...)
 - 云计算部分支持移植到 FaaS
 
+## 建议
+- 小规模应用不适合搞得太复杂，第三方服务使用 Docker 部署即可，本地服务越简单部署越好
+- 如果应用数量很多，使用 K8s 能提高运维效率
+
 
 
 # 开发(development)
@@ -32,6 +36,7 @@
 
 ## 数据库(DB)
 - [todo] MySQL
+- [todo] PostgreSQL
 - [todo] MongoDB
 - [todo] Redis
 - [todo] 对象存储
@@ -40,7 +45,7 @@
 ## 中间件(middleware)
 - [todo] Dubbo: 远程调用，支持 gRPC
 - [todo] Nacos: 注册中心、配置中心
-- [todo] Keycloak: 用户身份管理、权限控制
+- [todo] Keycloak/Casdoor: 用户身份管理、权限控制
 
 
 
