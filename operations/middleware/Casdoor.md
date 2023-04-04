@@ -6,7 +6,7 @@
 - 文档：https://casdoor.org
 - 在线 Demo：https://casdoor.org
 - Apache-2.0 license, Go
-- 一个集中认证/单点登录(SSO) 平台，前端是React
+- 一个集中认证/单点登录(SSO) 平台，前端是React，并提供了各语言 client-sdk
 
 ## 部署
 - https://casdoor.org/zh/docs/basic/try-with-docker
