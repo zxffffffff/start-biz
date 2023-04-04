@@ -24,6 +24,12 @@
 - https://docs.docker.com/engine/install/
 - 仅支持 Linux 包括: Ubuntu、CentOS、Debian、Fedora 等
 
+### 指令 options
+- option 需要在放在 IMAGE 之前
+- `-d` 后台运行容器，并返回容器ID
+- `-p 123:123` 端口映射
+- `--name="hello"` 自定义名称
+
 ## 制作镜像
 
 ### 定制 `Dockerfile`
