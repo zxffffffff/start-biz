@@ -46,6 +46,7 @@
 - [todo] Dubbo: 远程调用，支持 gRPC
 - [todo] Nacos: 注册中心、配置中心
 - [WIP] Keycloak/Casdoor: 用户身份管理、权限控制
+- [todo] Jena: 用于处理和管理RDF数据和Linked Data
 
 
 
