@@ -1,0 +1,3 @@
+[submodule "develop/client/start-flutter"]
+	path = develop/client/start-flutter
+	url = https://github.com/zxffffffff/start-flutter.git
