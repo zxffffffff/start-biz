@@ -16,3 +16,6 @@
 [submodule "develop/microservice/start-java"]
 	path = develop/microservice/start-java
 	url = https://github.com/zxffffffff/start-java.git
+[submodule "develop/microservice/start-cpp-vcpkg"]
+	path = develop/microservice/start-cpp-vcpkg
+	url = https://github.com/zxffffffff/start-cpp-vcpkg.git
