@@ -10,3 +10,6 @@
 [submodule "develop/client/start-electron"]
 	path = develop/client/start-electron
 	url = https://github.com/zxffffffff/start-electron.git
+[submodule "develop/microservice/start-go"]
+	path = develop/microservice/start-go
+	url = https://github.com/zxffffffff/start-go.git

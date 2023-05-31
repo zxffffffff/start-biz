@@ -22,7 +22,7 @@
 
 ## 微服务(microservice)
 - [WIP] Java
-- [WIP] Go
+- Go
 - [todo] Node.js
 - [todo] Python
 
