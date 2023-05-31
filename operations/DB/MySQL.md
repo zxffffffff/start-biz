@@ -1,4 +1,4 @@
-# [todo] MySQL
+# MySQL
 
 ## 简介
 

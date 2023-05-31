@@ -1,4 +1,4 @@
-# [todo] Python
+# Python
 
 ## FastAPI
 - https://fastapi.tiangolo.com/

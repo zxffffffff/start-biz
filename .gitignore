@@ -1,1 +1,2 @@
-doc/.$*.drawio.bkp
+*.drawio.bkp
+*.drawio.dtmp

@@ -1,7 +1,7 @@
 # start-biz
 一个快速展业的微服务脚手架，支持各类云服务 SaaS PaaS FaaS
 
-## 架构图
+## 结构
 ![image](https://github.com/zxffffffff/start-biz/blob/main/doc/Architecture.png)
 
 ## 目标
@@ -9,7 +9,7 @@
 - 方便扩展支持各个云原生厂商(阿里云、华为云、AWS、...)
 - 云计算部分支持移植到 FaaS
 
-## 建议
+## 思考
 - 小规模应用不适合搞得太复杂，第三方服务使用 Docker 部署即可，本地服务越简单部署越好
 - 如果应用数量很多，使用 K8s 能提高运维效率
 
@@ -21,8 +21,8 @@
 - [todo] Ingress: 流量入口负载均衡，支持 K8s
 
 ## 微服务(microservice)
-- [todo] Java
-- [todo] Go
+- [WIP] Java
+- [WIP] Go
 - [todo] Node.js
 - [todo] Python
 
@@ -56,7 +56,7 @@
 # DevOps
 
 ## 版本控制(code version)
-- [todo] Git(GitLab)
+- [todo] GitLab
 - [todo] 分支管理: dev，feature，release
 
 ## 持续集成/持续交付(CI/CD)
@@ -64,4 +64,5 @@
 - [todo] 代码审查(code review)
 - [todo] 灰度发布(金丝雀发布，蓝绿发布，A/B测试)
 - [todo] Jenkins: 自动化打包平台
+- [WIP] Node-RED：低码平台
 
