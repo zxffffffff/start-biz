@@ -7,3 +7,6 @@
 [submodule "develop/client/start-godot-cpp"]
 	path = develop/client/start-godot-cpp
 	url = https://github.com/zxffffffff/start-godot-cpp.git
+[submodule "develop/client/start-electron"]
+	path = develop/client/start-electron
+	url = https://github.com/zxffffffff/start-electron.git
