@@ -28,8 +28,9 @@
 
 ## 客户端(client)
 - [todo] multi-platform
-- Flutter
+- Flutter(Dart)
 - Flame(Flutter)
+- Godot(C++/GDScript)
 
 
 

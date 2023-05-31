@@ -4,3 +4,6 @@
 [submodule "develop/client/start-flutter-flame"]
 	path = develop/client/start-flutter-flame
 	url = https://github.com/zxffffffff/start-flutter-flame.git
+[submodule "develop/client/start-godot-cpp"]
+	path = develop/client/start-godot-cpp
+	url = https://github.com/zxffffffff/start-godot-cpp.git
