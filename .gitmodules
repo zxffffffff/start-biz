@@ -13,3 +13,6 @@
 [submodule "develop/microservice/start-go"]
 	path = develop/microservice/start-go
 	url = https://github.com/zxffffffff/start-go.git
+[submodule "develop/microservice/start-java"]
+	path = develop/microservice/start-java
+	url = https://github.com/zxffffffff/start-java.git

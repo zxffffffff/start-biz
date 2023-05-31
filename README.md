@@ -21,7 +21,7 @@
 - [todo] Ingress: 流量入口负载均衡，支持 K8s
 
 ## 微服务(microservice)
-- [WIP] Java
+- Java
 - Go
 - [todo] Node.js
 - [todo] Python
