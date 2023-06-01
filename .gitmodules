@@ -22,3 +22,6 @@
 [submodule "develop/microservice/start-cpp"]
 	path = develop/microservice/start-cpp
 	url = https://github.com/zxffffffff/start-cpp.git
+[submodule "devops/start-node-red"]
+	path = devops/start-node-red
+	url = https://github.com/zxffffffff/start-node-red.git
