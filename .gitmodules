@@ -25,3 +25,6 @@
 [submodule "devops/start-node-red"]
 	path = devops/start-node-red
 	url = https://github.com/zxffffffff/start-node-red.git
+[submodule "develop/microservice/start-nodejs"]
+	path = develop/microservice/start-nodejs
+	url = https://github.com/zxffffffff/start-nodejs.git
