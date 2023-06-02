@@ -14,7 +14,6 @@
 - 如果应用数量很多，使用 K8s 能提高运维效率
 
 
-
 # 开发(development)
 
 ## API网关(API-Gateway)
@@ -22,18 +21,24 @@
 
 ## 微服务(microservice)
 - C++
+  - https://github.com/zxffffffff/start-cpp-vcpkg.git
+  - https://github.com/zxffffffff/start-cpp.git
 - Java
+  - https://github.com/zxffffffff/start-java.git
 - Go
+  - https://github.com/zxffffffff/start-go.git
 - [todo] Node.js
 - [todo] Python
 
 ## 客户端(client)
-- [todo] multi-platform
 - Electron(Node.js)
+  - https://github.com/zxffffffff/start-electron.git
 - Flutter(Dart)
-- Flame(Flutter)
+  - https://github.com/zxffffffff/start-flutter.git
+- Flame(Dart/Flutter)
+  - https://github.com/zxffffffff/start-flutter-flame.git
 - Godot(C++/GDScript)
-
+  - https://github.com/zxffffffff/start-godot-cpp.git
 
 
 # 运维(operations)
@@ -57,7 +62,6 @@
 - [todo] Jena: 用于处理和管理RDF数据和Linked Data
 
 
-
 # DevOps
 
 ## 版本控制(code version)
@@ -69,5 +73,6 @@
 - [todo] 代码审查(code review)
 - [todo] 灰度发布(金丝雀发布，蓝绿发布，A/B测试)
 - [todo] Jenkins: 自动化打包平台
-- [WIP] Node-RED：低码平台
+- Node-RED：低码平台
+  - https://github.com/zxffffffff/start-node-red.git
 
