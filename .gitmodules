@@ -28,3 +28,6 @@
 [submodule "develop/microservice/start-nodejs"]
 	path = develop/microservice/start-nodejs
 	url = https://github.com/zxffffffff/start-nodejs.git
+[submodule "develop/client/start-react"]
+	path = develop/client/start-react
+	url = https://github.com/zxffffffff/start-react.git
