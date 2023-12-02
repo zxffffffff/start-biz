@@ -31,3 +31,6 @@
 [submodule "develop/client/start-react"]
 	path = develop/client/start-react
 	url = https://github.com/zxffffffff/start-react.git
+[submodule "develop/client/start-react-native"]
+	path = develop/client/start-react-native
+	url = https://github.com/zxffffffff/start-react-native.git
